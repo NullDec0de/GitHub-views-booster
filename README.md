@@ -1,5 +1,6 @@
 <h1 align="center">Github views booster</h1>
 <img src="https://user-images.githubusercontent.com/54909376/203356843-6d68b53a-5090-4435-8ac4-38d65851ab73.png"/>
+<a class="github-button" href="https://github.com/buttons/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark_high_contrast;" data-icon="octicon-star" aria-label="Star buttons/github-buttons on GitHub">Star</a>
 <h1>📌EN</h1>
 </br>This little utility will help you increase your views on the counter in your profile.
 <h2>​Requirements</h2>
@@ -28,3 +29,4 @@ P.S. It is advisable to insert a link to the counter.</br>
 4. Введите нужное количество просмотров и ссылку на счетчик.</br>
 P.S Желательно вставлять именно ссылку на счетчик.</br>
 <img src="https://user-images.githubusercontent.com/54909376/203357355-67c31ca7-9ed7-41bb-895d-6ed7da52bd40.png"/>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
