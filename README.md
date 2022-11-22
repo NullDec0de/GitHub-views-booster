@@ -7,7 +7,7 @@
 - Installed <a href="https://www.google.com/intl/en/chrome/">Chrome</a></br>
 - Straight arms xD</br>
 <h2>​Usage</h2>
-</br>1. Clone this repository ( git clone https://github.com/NullDec0de/GitHub-views-boost )</br>
+</br>1. Clone this repository ( git clone https://github.com/NullDec0de/GitHub-views-booster )</br>
 2. Install dependencies ( pip install -r requirements.txt )</br>
 3. Run the program ( python main.py )</br>
 4. Enter the desired number of views and a link to the counter.</br>
@@ -22,7 +22,7 @@ P.S. It is advisable to insert a link to the counter.</br>
 - Прямые руки</br>
 <h2>​Использование</h2>
 </br>
-1. Клонируйте этот репозиторий ( git clone https://github.com/NullDec0de/GitHub-views-boost )</br>
+1. Клонируйте этот репозиторий ( git clone https://github.com/NullDec0de/GitHub-views-booster )</br>
 2. Установите зависимости ( pip install -r requirements.txt )</br>
 3. Запустите программу ( python main.py )</br>
 4. Введите нужное количество просмотров и ссылку на счетчик.</br>
