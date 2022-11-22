@@ -1,4 +1,4 @@
-<h1 align="center">Github views booster</h1><hr>
+<h1 align="center">Github views booster</h1>
 <img src="https://user-images.githubusercontent.com/54909376/203356843-6d68b53a-5090-4435-8ac4-38d65851ab73.png"/>
 <h1>📌EN</h1>
 </br>This little utility will help you increase your views on the counter in your profile.
@@ -13,7 +13,6 @@
 4. Enter the desired number of views and a link to the counter.</br>
 P.S. It is advisable to insert a link to the counter.</br>
 <img src="https://user-images.githubusercontent.com/54909376/203361203-ab957625-af6b-4eda-81a9-c1de86dd6143.png"/></br>
-<hr>
 <h1>📌 RU</h1>
 Эта небольшая утилита поможет вам повысить свои просмотры на счетчике в профиле.</br>
 </br>
