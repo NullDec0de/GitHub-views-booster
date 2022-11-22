@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/54909376/203356843-6d68b53a-5090-4435-8ac4-38d65851ab73.png"/>
 <h1>📌EN</h1>
 </br>This little utility will help you increase your views on the counter in your profile.
-<hr>
 <h2>​Requirements</h2>
 - Installed <a href="https://www.python.org/">Python</a></br>
 - Installed <a href="https://www.google.com/intl/en/chrome/">Chrome</a></br>
@@ -17,7 +16,6 @@ P.S. It is advisable to insert a link to the counter.</br>
 <hr>
 <h1>📌 RU</h1>
 Эта небольшая утилита поможет вам повысить свои просмотры на счетчике в профиле.</br>
-<hr>
 </br>
 <h2>​Требования</h2>
 - Установленный <a href="https://www.python.org/">Python</a></br>
